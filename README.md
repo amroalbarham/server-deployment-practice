@@ -16,5 +16,5 @@
 
 ### Pull Rrequest link:
 
-[https://github.com/amroalbarham/server-deployment-practice/pull/1](https://github.com/amroalbarham/server-deployment-practice/pull/1)
+[https://github.com/amroalbarham/server-deployment-practice/pull/2](https://github.com/amroalbarham/server-deployment-practice/pull/2)
 
