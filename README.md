@@ -1,9 +1,11 @@
 # server-deployment-practice
 
 ### Heroku app link:
-[https://git.heroku.com/amro-server-deploy-prod.git](https://git.heroku.com/amro-server-deploy-prod.git)
 
-[https://git.heroku.com/amro-server-deploy-dev.git](https://git.heroku.com/amro-server-deploy-dev.git)
+[https://amro-server-deploy-prod.herokuapp.com/](https://amro-server-deploy-prod.herokuapp.com/)
+
+[https://amro-server-deploy-dev.herokuapp.com/](https://amro-server-deploy-dev.herokuapp.com/)
+
 
 
 
